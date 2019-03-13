@@ -1,0 +1,34 @@
+body {
+    padding: 20px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 15px solid pink;
+    margin: 10px;
+}
+
+.rgb {
+    background-color: rgb(200,200,0);
+    box-sizing: content-box;
+}
+
+.hsl {
+   background-color: hsl(0, 100%, 50%)
+}
+
+.hex {
+    background-color: #fc0000
+}
+
+.rgba {    background-color: #D61313
+}
+
+.col {
+    border: 1px solid black;
+}
+
+
+
+
